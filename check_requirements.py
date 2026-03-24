@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 CareerCatalyst - Dependency Verification Script
-Copyright (c) 2025-present Martin Mei
+Copyright (c) 2025-present C.J Mei
 """
 
 import sys

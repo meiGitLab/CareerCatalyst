@@ -26,5 +26,5 @@ If you're interested in this project, you're welcome to participate through:
 - Helping improve documentation and testing
 
 ## Individual Contributors
-- CJ Mei - [project owner/first release]
+- C.J Mei - [project owner/first release]
 - To be add

@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025-present CJ Mei - "CareerCatalyst" Project(a personal learning project on Multi AI Agents with RAG)
+Copyright (c) 2025-present C.J Mei - "CareerCatalyst" Project(a personal learning project on Multi AI Agents with RAG)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

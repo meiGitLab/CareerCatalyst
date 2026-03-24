@@ -7,7 +7,7 @@
 - **First Release**: 2025
 
 ## Core Contributors
-- CJ Mei 
+- C.J Mei 
 
 ## Third-Party Dependency Acknowledgments
 

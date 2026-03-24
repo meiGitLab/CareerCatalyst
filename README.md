@@ -230,9 +230,9 @@ python -m uvicorn api_gateway:app --reload --port 8000
 streamlit run web_app.py
 ```
 #### Terminal #4 - Telegram Bot (Optional):
-First, configure your bot token in telegram_bot.py
+First, configure your bot token in telegram_app.py
 ```shell
-python telegram_bot.py
+python telegram_app.py
 ```
 
 ## Usage Guide
@@ -277,9 +277,7 @@ CareerCatalyst/
 ├── document_processor.py     # Multi-format document processor
 ├── rag_setup.py              # RAG system initialization
 ├── web_app.py                # Streamlit web interface
-├── telegram_bot.py           # Telegram bot implementation
-├── ingest.py                 # Legacy document ingestion
-├── rag.py                    # Legacy RAG implementation
+├── telegram_app.py           # Telegram bot implementation
 ├── check_requirements.py     # Dependency verification script
 ├── requirements.txt          # Python dependencies
 ├── company_data/             # Your company documents (create this)
@@ -335,7 +333,7 @@ I welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guide
 
 ## License & Acknowledgments
 ### License
-Copyright © 2025-present `Martin Mei`. 
+Copyright © 2025-present `C.J Mei`. 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ### Third-Party Dependencies
@@ -355,12 +353,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 For a complete list, see [NOTICE.md](NOTICE.md).
 
 ## Project Origin
-*CareerCatalyst* was initially developed as a self learning project with the vision to democratize career development support using cutting-edge AI technology.
+*CareerCatalyst* was initially developed as a personal hands-on project with the vision to democratize career development support using cutting-edge AI technology.
 
 ## Contact
-- Project Maintainer: *`Martin Mei`* - martinmei9@163.com
-- GitHub Issues: https://github.com/martinGitLab/CareerCatalyst/issues
-- Project Board: https://github.com/martinGitLab/CareerCatalyst/projects
+- Project Maintainer: *`C.J Mei`* - chaojunmei8@163.com
+- GitHub Issues: https://github.com/meiGitLab/CareerCatalyst/issues
+- Project Board: https://github.com/meiGitLab/CareerCatalyst/projects
 
 ## Star History
 If you find this project useful, please consider giving it a star on GitHub!
